@@ -1,4 +1,19 @@
-# Code Crafter's Consortium
-## Code worth sharing!
+# Code Crafter's Consortium  
 
-This organization is intended to be a place to share UCSs, machine scripts, report scripts and other applications to do with CV.
+### Welcome to the Code Crafter's Consortium code repository!  
+Join our Discord Server here. [Discord Server](https://discord.gg/xddmYTyweH)
+
+## Code worth sharing!
+This is intended to be a central place to share the fine code people have written for CV.  
+This may include:  
+* UCSs
+* SQL Queries
+* Report Scripts
+* Machine Scripts
+* Applications
+
+Our intent is to keep the projects shared on here the type of projects that have many hours invested into them and have value for that reason.  
+
+## We welcome your contribution!  
+If you would like to contribute, please clone the desired repo and open a pull request.  
+If you would like to become a maintainer or owner, please contact Patrick Hurst at patrick@in-nova-tech.com or message him on Discord.
