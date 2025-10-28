@@ -15,5 +15,5 @@ This may include:
 Our intent is to keep the projects shared on here the type of projects that have many hours invested into them and have value for that reason.  
 
 ## We welcome your contribution!  
-If you would like to contribute, please clone the desired repo and open a pull request.  
-If you would like to become a maintainer or owner, please contact Patrick Hurst at patrick@in-nova-tech.com or message him on Discord.
+If you would like to contribute, please clone the desired repo and open a pull request or contact Patrick Hurst to be added as a member.  
+Patrick Hurst: patrick@in-nova-tech.com : Active on [Discord Server](https://discord.gg/xddmYTyweH)
